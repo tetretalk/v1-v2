@@ -5,9 +5,9 @@ description: Airport Management! Get the experience of managing an airport
 image: 'https://cdn.htmlgames.com/AirportManagement2/img/icon/icon-152x152.png'
 category: 'Fun'
 tags:
-- Solitare
-- Levels
-- Mountain
+- Airport
+- Management
+- Airplane
 ---
 
 <div>
