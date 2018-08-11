@@ -1,7 +1,7 @@
 # Site Settings
 title: tetretalk
 email: youremail@xyz.com
-description: Some text about your blog.
+description: Play Millions of games created from users just like you! Different games for different ages! Come check out the site and consider joining our discord to know when a game is updated or when we are adding something!
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
