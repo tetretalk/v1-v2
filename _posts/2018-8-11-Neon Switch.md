@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sheep And Wolves"
+title: "Neon Switch"
 description:   
 image: 'https://cdn.htmlgames.com/NeonSwitch/img/icon/icon-152x152.png'
 category: 'Fun'
