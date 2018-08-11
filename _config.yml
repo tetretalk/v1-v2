@@ -7,8 +7,8 @@ url: "beta.tetretalk.gq" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
-user_description: Some text about you.
+username: tetretalk.io
+user_description: tetretalk.io
 disqus_username: disqus_username
 
 # Social Media
