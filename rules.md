@@ -2,7 +2,7 @@
 layout: page
 title: Rules
 description: Official tetretalk rules.
-permalink: /create/
+permalink: /rules/
 ---
 
 ### No Swearing when making a game - Little Kids play this ok
@@ -13,4 +13,4 @@ permalink: /create/
 
 ### If you ever find a glitch/bug on a game on the website, dont tell the tetretalk staff, tell the developer of the game
 
-<img src"https://media.tenor.com/images/957a8f592b7d85e5b334bb75d3228f4a/tenor.gif">
+<img src"https://media.tenor.com/images/957a8f592b7d85e5b334bb75d3228f4a/tenor.gif" >
