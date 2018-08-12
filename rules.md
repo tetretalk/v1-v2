@@ -14,3 +14,5 @@ permalink: /rules/
 ### If you ever find a glitch/bug on a game on the website, dont tell the tetretalk staff, tell the developer of the game
 
 # And Dont forget to Have Fun!
+
+![Dont forget to have fun!](https://media.tenor.com/images/957a8f592b7d85e5b334bb75d3228f4a/tenor.gif)
