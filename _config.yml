@@ -33,6 +33,8 @@ links:
     url: /create/
   - title: Website Updates
     url: /updates/
+  - title: The Tetretalk Staff!
+    url: /staff/
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
