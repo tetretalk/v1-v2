@@ -15,4 +15,4 @@ permalink: /rules/
 
 # And Dont forget to Have Fun!
 
-![Dont forget to have fun!](https://media.tenor.com/images/957a8f592b7d85e5b334bb75d3228f4a/tenor.gif)
+<div style="text-align:center"><img src ="https://media.tenor.com/images/957a8f592b7d85e5b334bb75d3228f4a/tenor.gif" /></div>
