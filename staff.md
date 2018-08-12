@@ -13,7 +13,7 @@ permalink: /staff/
 
 <a>Atticus - Project Contributer</a>
 
-<img src"https://i.imgur.com/SrseGLK.png" >
+<img src"https://media.discordapp.net/attachments/468930280493940746/478251186391351307/JPEG_20180811_214507.jpg?width=201&height=201" >
 
 
 
