@@ -31,6 +31,8 @@ links:
     url: /
   - title: Create
     url: /about/
+  - title: Website Updates
+    url: /contact/
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
