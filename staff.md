@@ -11,7 +11,7 @@ permalink: /staff/
 # Lazer - CEO/Project Manager
 
 
-<img src"https://i.imgur.com/9oZHZne.jpg" >
+<img src"https://i.imgur.com/9oZHZne.jpg">
 
 # Link - Game request reader
 
