@@ -2,7 +2,7 @@
 layout: page
 title: Website Updates
 description: Recent Website Updates
-permalink: /contact/
+permalink: /create/
 ---
 
 # Https (August 12th 12:15 PM EDT)
