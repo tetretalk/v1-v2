@@ -11,7 +11,7 @@ permalink: /staff/
 # Lazer - CEO/Project Manager
 
 
-<img src"https://cdn.discordapp.com/attachments/468930280493940746/478245538555363358/a27828a17b0f92db8135417a1da13179.jpg" >
+<img src"https://i.imgur.com/9oZHZne.jpg" >
 
 # Link - Game request reader
 
@@ -19,7 +19,7 @@ permalink: /staff/
 
 
 
-<img src"https://cdn.discordapp.com/attachments/468930280493940746/478246347103797278/323436842332454913.png" >
+<img src"https://i.imgur.com/SrseGLK.png" >
 
 # Atticus - Project Contributer
 
