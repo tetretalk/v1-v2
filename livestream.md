@@ -2,9 +2,14 @@
 layout: page
 title: Live
 description: Come watch us play a game on the tetretalk website and join us in the game to be in the stream!
-permalink: /ab36yt7u8y6r2w8y/
+permalink: /live/
 ---
 
-<iframe width="910" height="520" src="https://www.youtube.com/embed/rf5qT4nHz8M" frameborder="0" allow="autoplay; encrypted-media" autoplay="1" controls="0" showinfo="0" ></iframe>
 
-</div>
+# Come Watch us play a game! And if your lucky, come play with us!
+
+<div>
+<iframe id="ytplayer" type="text/html" width="720" height="405"
+src="https://www.youtube.com/embed/q3VUNKeOQ2Q?modestbranding=1&autohide=1&showinfo=0&controls=0&rel=0&enablejsapi=1&autoplay=1&fs=1&pause=0"
+frameborder="0" allowfullscreen>
+  </div>
