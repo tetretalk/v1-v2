@@ -11,11 +11,7 @@ permalink: /live/
 
 #### Status: Offline; Next Stream Is At 4:30 PM EDT
 
-
-
-<div>
-  <img src"https://image.ibb.co/dyahGU/Screenshot_2018_08_14_at_4_00_20_PM.png" >
-  </div>
+<iframe id="ytplayer" type="text/html" width="1000" height="1000" src="https://www.youtube.com/embed/l4bDVq-nP-0?modestbranding=1&amp;autohide=1&amp;showinfo=0&amp;controls=0&amp;rel=0&amp;enablejsapi=1&amp;autoplay=1&amp;fs=1&amp;mute=1&amp;iv_load_policy=3"> </iframe>
 
 ## Game Being played: [Unavailable; Stream is offline]
 
