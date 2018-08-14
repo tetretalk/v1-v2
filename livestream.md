@@ -6,7 +6,11 @@ permalink: /live/
 ---
 
 
+#### Status: Offline; Next Stream Is At 4:30 PM EDT
+
+
 # Come Watch us play a game! And if your lucky, come play with us!
 
 <iframe id="ytplayer" type="text/html" width="720" height="405"
-src="https://www.youtube.com/embed/q3VUNKeOQ2Q?modestbranding=1&autohide=1&showinfo=0&controls=0&rel=0&enablejsapi=1&autoplay=1&fs=1">
+src="https://www.youtube.com/embed/K44as9VcNrg
+modestbranding=1&autohide=1&showinfo=0&controls=0&rel=0&enablejsapi=1&autoplay=1&fs=1">
