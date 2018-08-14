@@ -11,7 +11,7 @@ permalink: /live/
 
 #### Status: Online; Come watch the stream!
 
-<iframe id="ytplayer" type="text/html" width="952" height="520" src="https://www.youtube.com/embed/DKQCdz0CGsA?modestbranding=1&amp;autohide=1&amp;showinfo=0&amp;controls=0&amp;rel=0&amp;enablejsapi=1&amp;autoplay=1&amp;fs=1&amp;mute=1&amp;iv_load_policy=3"> </iframe>
+<iframe id="ytplayer" type="text/html" width="952" height="520" src="https://www.youtube.com/embed/DKQCdz0CGsA?modestbranding=1&amp;autohide=1&amp;showinfo=0&amp;controls=0&amp;rel=0&amp;enablejsapi=1&amp;autoplay=1&amp;fs=1&amp;iv_load_policy=3"> </iframe>
 
 ## Game Being played: Livestream is a test; No Game
 
