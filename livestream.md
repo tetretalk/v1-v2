@@ -15,7 +15,7 @@ permalink: /live/
 
 <div>
   <img src"https://image.ibb.co/dyahGU/Screenshot_2018_08_14_at_4_00_20_PM.png" >
-</div>
+  </div>
 
 ## Game Being played: [Unavailable; Stream is offline]
 
