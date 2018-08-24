@@ -10,7 +10,7 @@ permalink: /sponsors/
 
 Heres a short preview of the game!
 
-<iframe src="https://www.youtube.com/embed/IDUBlEcB4o4?modestbranding=1&amp;autohide=1&amp;showinfo=0&amp;controls=0&amp;rel=0&amp;enablejsapi=1&amp;autoplay=0&amp;fs=1"  height=520 width=952 ></iframe>
+<iframe width="952" height="520" src="https://www.youtube.com/embed/IDUBlEcB4o4?modestbranding=1&amp;autohide=1&amp;showinfo=0&amp;controls=0&amp;rel=0&amp;enablejsapi=1&amp;autoplay=1&amp;fs=1"></iframe>
 
 Play today at https://web.roblox.com/games/1583088520/Street-Simulator ! 😛
 
