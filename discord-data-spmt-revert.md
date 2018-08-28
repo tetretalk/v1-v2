@@ -2,7 +2,7 @@
 layout: page
 title: Discord
 description: Tetretalk Official discord!
-permalink: /create/
+permalink: /discord/
 ---
 
 <widgetbot
