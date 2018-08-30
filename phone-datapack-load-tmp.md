@@ -5,6 +5,6 @@ description: Device Unsupported
 permalink: /unsupported/
 ---
 
-#h3 Device Unsupported
+### Device Unsupported
 
 Sorry! Tetretalk is not supported for Phones.
