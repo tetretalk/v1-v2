@@ -21,6 +21,8 @@ gems:
 links:
   - title: Home
     url: /
+  - title: Admin Panel
+    url: /admin/
   - title: Rules
     url: /rules/
   - title: Discord
