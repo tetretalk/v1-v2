@@ -2,6 +2,11 @@
     <nav id="navigation">
       <h2>Menu</h2>
       <ul>
+          <img class="m-logo" src="https://lh3.googleusercontent.com/-wFirLNQNv8Y/AAAAAAAAAAI/AAAAAAAAaXA/cXqMNgw0PxY/photo.jpg?sz=100">
+          <style>
+              .m-logo {
+                  border-radius: 55px;
+          </style>
         {% for link in site.links %}
           <li><a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>
         {% endfor %}
