@@ -14,7 +14,7 @@ var pass1 = prompt('Please Enter Your Password','');
 while (testV < 3) {
 if (!pass1) 
 history.go(-1);
-if (pass1.toLowerCase() == "00049986T") {
+if (pass1.toLowerCase() == "49986") {
 alert('Correct password | Welcome, admin!');
 window.open('admin.tetretalk.gq');
 break;
@@ -25,7 +25,7 @@ prompt('Access Denied - Try again! Access to Tetretalk Admin panel denied!','');
 }
 if (pass1.toLowerCase()!="password" & testV ==3) 
 history.go(-1);
-return " ";
+return "";
 } 
   passWord()
 </SCRIPT>
