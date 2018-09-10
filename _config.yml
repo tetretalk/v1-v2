@@ -23,6 +23,9 @@ links:
     url: /
   - title: Rules
     url: /rules/
+  - title: Discord
+    url: https://discordapp.com/invite/bNyeJZM
+    external: true
   - title: Jobs
     url: /jobs/
   - title: Sponsors
