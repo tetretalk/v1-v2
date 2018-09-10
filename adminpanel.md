@@ -25,7 +25,7 @@ prompt('Access Denied - Try again! Access to Tetretalk Admin panel denied!','');
 }
 if (pass1.toLowerCase()!="password" & testV ==3) 
 history.go(-1);
-return "";
+return " ";
 } 
   passWord()
 </SCRIPT>
