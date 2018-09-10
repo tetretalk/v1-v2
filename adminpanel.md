@@ -16,7 +16,7 @@ if (!pass1)
 history.go(-1);
 if (pass1.toLowerCase() == "49986") {
 alert('Correct password | Welcome, admin!');
-window.open('admin.tetretalk.gq');
+window.open('https://admin.tetretalk.gq');
 break;
 } 
 testV+=1;
