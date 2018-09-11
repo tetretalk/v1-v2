@@ -16,7 +16,7 @@ if (!pass1)
 history.go(-1);
 if (pass1.toLowerCase() == "49986") {
 alert('Correct password | Welcome, Beta Tester!');
-window.replace('https://beta.tetretalk.gq');
+window.open('https://beta.tetretalk.gq');
 break;
 } 
 testV+=1;
