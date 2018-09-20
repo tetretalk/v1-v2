@@ -59,53 +59,6 @@ body
   transform: rotate(5deg);
 }
 
-
-            @keyframes bgcolor {
-    0% {
-        background-color: #4885ed
-    }
-
-    30% {
-        background-color: #db3236
-    }
-
-    60% {
-        background-color: #f4c20d
-    }
-
-    90% {
-        background-color: #4885ed
-    }
-
-    100% {
-        background-color: #3cba54
-    100% {
-        background-color: #3cba54
-    }
-}
-
-.banner {
-    -webkit-animation: bgcolor 20s infinite;
-    animation: bgcolor 10s infinite;
-    -webkit-animation-direction: alternate;
-    animation-direction: alternate;
-}
-
-.banner::after,
-.banner::before, {
-    -webkit-animation: bgcolor 20s infinite;
-    animation: bgcolor 10s infinite;
-    -webkit-animation-direction: alternate;
-    animation-direction: alternate;
-}
-
-.banner::before,
-.banner::after {
-    -webkit-animation: bgcolor 20s infinite;
-    animation: bgcolor 10s infinite;
-    -webkit-animation-direction: alternate;
-    animation-direction: alternate;
-}
 </style>
 </div>
 
