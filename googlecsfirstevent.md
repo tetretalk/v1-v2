@@ -1,10 +1,111 @@
 ---
 layout: page
 title: Tetretalk Beta
-description: Google CS First Event - {[PROTECTED CONTENT]}
+description: Google CS First Event!
 permalink: /google/
 ---
 
+<div>
+<h1 class="banner">Tetretalk Official Google CS First Event!</h1>
+<style>
+body  {
+    background-image: url("https://stmed.net/sites/default/files/circle-wallpapers-25179-602399.jpg");
+}
+  
+  @import url(https://fonts.googleapis.com/css?family=Rye);
 
-<img src="https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.CcNjO3AtnTy4N7SgGHr97AHaEK%26pid%3D15.1&f=1">
-</img>
+body 
+{ background: #eee; }
+
+.banner {
+  position: absolute;
+  left: 50%;
+  display: block;
+  margin: 100px -200px;
+  width: 900px;
+  height: 60px;
+  border: 1px solid #8a1;
+  font: normal 30px/60px 'Rye';
+  text-align: center;
+  color: #451;
+  background: #9b2;
+  border-radius: 4px;
+  box-shadow: 0 0 30px rgba(0,0,0,.15) inset,
+      				0 6px 10px rgba(0,0,0,.15);
+}
+
+.banner::before,
+.banner::after {
+  content: '';
+  position: absolute;
+  z-index: -1;
+  left: -70px;
+  top: 24px;
+  display: block;
+  width: 40px;
+  height: 0px;
+  border: 30px solid #9b2;
+  border-right: 20px solid #791;
+  border-bottom-color: #94b81e;
+  border-left-color: transparent;
+  transform: rotate(-5deg);
+}
+
+.banner::after {
+  left: auto;
+  right: -70px;
+  border-left: 20px solid #791;
+  border-right: 30px solid transparent;
+  transform: rotate(5deg);
+}
+
+
+            @keyframes bgcolor {
+    0% {
+        background-color: #4885ed
+    }
+
+    30% {
+        background-color: #db3236
+    }
+
+    60% {
+        background-color: #f4c20d
+    }
+
+    90% {
+        background-color: #4885ed
+    }
+
+    100% {
+        background-color: #3cba54
+    100% {
+        background-color: #3cba54
+    }
+}
+
+.banner {
+    -webkit-animation: bgcolor 20s infinite;
+    animation: bgcolor 10s infinite;
+    -webkit-animation-direction: alternate;
+    animation-direction: alternate;
+}
+
+.banner::after,
+.banner::before, {
+    -webkit-animation: bgcolor 20s infinite;
+    animation: bgcolor 10s infinite;
+    -webkit-animation-direction: alternate;
+    animation-direction: alternate;
+}
+
+.banner::before,
+.banner::after {
+    -webkit-animation: bgcolor 20s infinite;
+    animation: bgcolor 10s infinite;
+    -webkit-animation-direction: alternate;
+    animation-direction: alternate;
+}
+</style>
+</div>
+
