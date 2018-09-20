@@ -5,60 +5,14 @@ description: Google CS First Event!
 permalink: /google/
 ---
 
+# Its that time! The Event is here!
+
+# This Event is Sponsored by google!
+
+We are partnering with google to make an event, Googles CS First program is for schools for kids 4th grade to 6th grade, it is where you learn to make awesome games like the ones here on tetretalk! You can attend this event even if your school does not have Google CS First programs, you will not have to go to your teacher and ask to work on everything, and this won't be related to school that much so even if your school has the Google CS First Program you won't have to go talking to your teachers about this, this will be your own project that you do at home and NOT SCHOOL, So, you are gonna be making your own game and sending it in, the best game that applies gets to be a game on the official website! Start creating your game on programs like Scratch, and other game makers that allow you to embed your game onto another website, make your game and then once you are done, fill out the form below and we will review your game. MAY THE BEST WIN!
+
+
+
 <div>
-<h1 class="banner">Tetretalk Official Google CS First Event!</h1>
-<style>
-body  {
-    background-image: url("https://stmed.net/sites/default/files/circle-wallpapers-25179-602399.jpg");
-}
-  
-  @import url(https://fonts.googleapis.com/css?family=Rye);
-
-body 
-{ background: #eee; }
-
-.banner {
-  position: absolute;
-  left: 50%;
-  display: block;
-  margin: 100px -200px;
-  width: 900px;
-  height: 60px;
-  border: 1px solid #8a1;
-  font: normal 30px/60px 'Rye';
-  text-align: center;
-  color: #451;
-  background: #9b2;
-  border-radius: 4px;
-  box-shadow: 0 0 30px rgba(0,0,0,.15) inset,
-      				0 6px 10px rgba(0,0,0,.15);
-}
-
-.banner::before,
-.banner::after {
-  content: '';
-  position: absolute;
-  z-index: -1;
-  left: -70px;
-  top: 24px;
-  display: block;
-  width: 40px;
-  height: 0px;
-  border: 30px solid #9b2;
-  border-right: 20px solid #791;
-  border-bottom-color: #94b81e;
-  border-left-color: transparent;
-  transform: rotate(-5deg);
-}
-
-.banner::after {
-  left: auto;
-  right: -70px;
-  border-left: 20px solid #791;
-  border-right: 30px solid transparent;
-  transform: rotate(5deg);
-}
-
-</style>
-</div>
-
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd0YDhHvxntGjsbD4pgTKQi8-tKfgM8J0YvVWPPxyeHnIDKMQ/viewform?embedded=true" width="640" height="7000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+    </div>
