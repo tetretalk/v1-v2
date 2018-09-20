@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Tetretalk Beta
-description: Beta - {[PROTECTED CONTENT]}
-permalink: /beta/
+description: Google CS First Event - {[PROTECTED CONTENT]}
+permalink: /google/
 ---
 
 
