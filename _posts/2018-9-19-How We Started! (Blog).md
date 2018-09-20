@@ -33,15 +33,9 @@ can look at where i will share development of the website, i don't show the staf
 It is a secret discord channel, you need to join the discord server first, open the menu then click on discord!
 
 <div>
+<html>
   <center>
 <a class="sdbpb1" href="https://discordapp.com/channels/477929727966052373/491711592975826959">Click Here!<a>
   </center>
-<style>
-   .sdbpb1 {
-     border-radius: 55px;
-     background-color: #ff0000;
-     font-size: 14px;
-     color: #ff0000;
-}
-</style>
+</html>
 </div>
