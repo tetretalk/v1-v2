@@ -2,7 +2,7 @@
 layout: post
 title: "How We Started (Blog)"
 description:  First Blog Post Ever!
-image: 'https://static.thenounproject.com/png/16377-200.png'
+image: '/bicon.png'
 category: 'Blog'
 tags:
 - Blog
@@ -32,10 +32,6 @@ Thanks for reading the first blog post! We have a present for being here early, 
 can look at where i will share development of the website, i don't show the staff development of the website so you are lucky! 
 It is a secret discord channel, you need to join the discord server first, open the menu then click on discord!
 
-<div>
-<html>
-  <center>
+
 <a class="sdbpb1" href="https://discordapp.com/channels/477929727966052373/491711592975826959">Click Here!<a>
-  </center>
-</html>
-</div>
+
