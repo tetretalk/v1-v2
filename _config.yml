@@ -36,8 +36,6 @@ links:
     url: /create/
   - title: TetreTime Live
     url: /live/
-  - title: Website Updates
-    url: /updates/
-
+    
 # Node/;FireClient(node.package.games) #
 exclude: ['package.json', 'src', 'node_modules']
