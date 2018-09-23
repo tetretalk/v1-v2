@@ -2,7 +2,7 @@
 layout: post
 title: "How We Started (Blog)"
 description:  First Blog Post Ever!
-image: '/bicon.png'
+image: 'https://tetretalk.gq/bicon.png'
 category: 'Blog'
 tags:
 - Blog
