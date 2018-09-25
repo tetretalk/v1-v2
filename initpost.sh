@@ -45,8 +45,8 @@ BINPATH=$(cd `dirname $0`; pwd)
 POSTPATH="${BINPATH}/_posts"
 DIST_FOLDER="$POSTPATH"
 
-# Set your blog URL
-BLOG_URL="https://www.rossener.com/"
+
+BLOG_URL="https://tetretalk.gq"
 
 # Set your assets URL
 ASSETS_URL="assets/img/"
