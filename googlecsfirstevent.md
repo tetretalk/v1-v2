@@ -2,7 +2,7 @@
 layout: page
 title: Tetretalk Beta
 description: Google CS First Event!
-permalink: /google/
+permalink: /102271291229236238236/
 ---
 
 # Its that time! The Event is here!
