@@ -1,3 +1,11 @@
+---
+layout: page
+title: Tetretalk Community Homepage
+description: Tetretalk Community Home Page, talk to everyone at tetretalk@
+permalink: /coho/
+---
+
+
 <div id="disqus_thread"></div>
 <script>
 (function() { // DON'T EDIT BELOW THIS LINE
