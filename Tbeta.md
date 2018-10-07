@@ -14,7 +14,7 @@ var pass1 = prompt('Please Enter Your Password to make sure you are an actual be
 while (testV < 3) {
 if (!pass1) 
 history.go(-1);
-if (pass1.toLowerCase() == "49986") {
+if (pass1.toLowerCase() == "TTBeta049986") {
 alert('Correct password | Welcome, Beta Tester!');
 window.open('https://beta.tetretalk.gq');
 break;
