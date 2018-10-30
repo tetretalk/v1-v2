@@ -2,7 +2,8 @@
 <html lang="en" itemscope itemtype="http://schema.org/BlogPosting">
     {% include head.html %}
     <body class="has-push-menu">
-        {% include minutes-to-read.html %}
+        
+    <!--    {% include minutes-to-read.html %}
         {% include svg-icons.html %}
         <section class="post">
 
@@ -12,7 +13,35 @@
                 <p itemprop="description" class="subtitle">{{ page.description }}</p>
 
                 {{ content }}
-            </article>
+            </article> -->
+
+<div class="row">
+<center>
+  <div class="flexbox">
+    <div class="col s12">
+      <div class="card blue-grey darken-1 tmr">
+        <div class="card-content white-text">
+          <span class="card-title">Game Access Denied! Reason:</span>
+          <p>We are currently working on fixing a bug where games are unplayable. Please stay patient! We are trying to fix this </p><u><b>ASAP</b></u>
+            
+          <div class="card-action">
+          <a href="/">Go Back Home</a>
+        </div>
+        </div>
+      </div>
+    </div>
+   </div>
+</center>
+  </div>
+<style>
+.flexbox {
+  display: flex;
+  flew-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+</style>
+        
 
 <div id="disqus_thread"></div>
 <script>
