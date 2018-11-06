@@ -11,11 +11,11 @@ tags:
 - Sub
 - Zero
 ---
-
+<center>
 <div>
 <iframe src="https://www.silvergames.com/en/geometry-dash-neon-subzero/iframe" width="800" height="450" style="margin:0;padding:0;border:0"></iframe>
 </div>
-
+</center>
 # Instructions
 
 Control: Mouse click = Jump
