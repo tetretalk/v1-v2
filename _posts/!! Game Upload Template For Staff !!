@@ -1,0 +1,30 @@
+- Anything that is not saying _ Here or so on, you keep how it is -
+File Name Template: 
+
+
+INCLUDE THE --- THEY ARE NOT A SEPERATOR TO SEPERATE WHAT TO PUT AND WHAT NOT TO PUT ON THE GAME FILE
+---
+layout: post
+title: "Game Name Here"
+description:  
+image: 'link to the square icon of the game'
+category: 'Fun'
+tags:
+- tag 1
+- tag 2
+- tag 3
+- tag 4
+---
+<center>
+<div>
+Game Code Goes Here
+</div>
+</center>
+# Instructions
+
+Instructions / How to play go here
+
+
+# Description
+
+Description here
