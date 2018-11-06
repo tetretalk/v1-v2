@@ -1,8 +1,10 @@
 - Anything that is not saying _ Here or so on, you keep how it is -
-File Name Template: 
-
+File Name Template: year-month-day-GAME NAME.md
+                    ^^Date formatted In Digits^^
 
 INCLUDE THE --- THEY ARE NOT A SEPERATOR TO SEPERATE WHAT TO PUT AND WHAT NOT TO PUT ON THE GAME FILE
+
+
 ---
 layout: post
 title: "Game Name Here"
