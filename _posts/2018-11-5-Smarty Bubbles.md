@@ -10,7 +10,7 @@ tags:
 ---
 
 <div>
-<embed src="https://play.famobi.com/smarty-bubbles" width="1200" height ="35">
+<embed src="https://play.famobi.com/smarty-bubbles" width="1200" height ="1200">
 </div>
 
 # Instructions
