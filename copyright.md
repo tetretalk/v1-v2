@@ -2,7 +2,7 @@
 layout: page
 title: Tetretalk Copyrigthts
 description: Tetretalk Credit & Copyright
-permalink: /beta/
+permalink: /copyright/
 ---
 
 # Cloudflare
@@ -21,4 +21,6 @@ Jekflix was made for a blog type website so we have removed things and changed t
 Jekflix Source: https://github.com/thiagorossener/jekflix-template
 
 # Google Analytics
-We use google analytics to track website activity. It gets your location
+We use google analytics to track website activity. It gets your location as city, state, and country, but that is it. It may also track some other stuff.
+Privacy Policy & Terms Of Service: https://www.google.com/analytics/terms/us.html
+
