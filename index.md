@@ -16,14 +16,10 @@ layout: main
                     </div>
                 {% endif %}
                 <div class="box-info">
-                    <meta itemprop="datePublished" content="{{ post.date | date_to_xmlschema }}">
-                    <time itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}" class="date">
-                        {% include date.html date=post.date %}
-                    </time>
                     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-                        <h2 class="post-title" itemprop="name">
+                        <center><h2 class="post-title" itemprop="name">
                             {{ post.title }}
-                        </h2>
+                            </h2</center>
                     </a>
                     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
                         <p class="description">{{ post.introduction }}</p>
