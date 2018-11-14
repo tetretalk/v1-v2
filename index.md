@@ -17,9 +17,9 @@ layout: main
                 {% endif %}
                 <div class="box-info">
                     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-                        <center><h2 class="post-title" itemprop="name">
+                        <h2 class="post-title" itemprop="name">
                             {{ post.title }}
-                            </h2</center>
+                        </h2>
                     </a>
                     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
                         <p class="description">{{ post.introduction }}</p>
