@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Checkers"
+title: "Smarty Bubbles"
 description:  
 image: 'https://i3.silvergames.com/p/b/smarty-bubbles.png'
 category: 'Fun'
