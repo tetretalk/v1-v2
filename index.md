@@ -5,7 +5,7 @@ layout: main
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
     <div id="grid" class="row flex-grid">
     {% for post in site.posts %}
-        <article class="box-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost"  {% if post.class %} class="goy"{% endif %}>
+        <article class="box-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost"  {% if post.class %} class=" box-item goy"{% endif %}>
             <div class="box-body">
                 {% if post.image %}
                     <div class="cover">
