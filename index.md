@@ -17,16 +17,16 @@ layout: main
                 {% endif %}
                 <div class="box-info">
                     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-                        <h2 class="post-title" itemprop="name">
+                        <font color="black"><h2 class="post-title" itemprop="name">
                             {{ post.title }}
-                        </h2>
+                            </h2></font>
                     </a>
                     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
                         <p class="description">{{ post.introduction }}</p>
                     </a>
                     <div class="tags">
                         {% for tag in post.tags %}
-                            <a href="{{ site.baseurl}}/tags/#{{tag | slugify }}">{{ tag }}</a>
+                           <font color="black"> <a href="{{ site.baseurl}}/tags/#{{tag | slugify }}">{{ tag }}</a></font>
                         {% endfor %}
                     </div>
                 </div>
