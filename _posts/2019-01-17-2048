@@ -1,0 +1,23 @@
+---
+layout: post
+title: "2048"
+description:  
+image: 'https://i1.silvergames.com/p/b/2048.png'
+category: 'Fun'
+tags:
+- 2048
+- 20
+- 48
+- Stragey
+---
+
+<center><iframe src="https://www.silvergames.com/en/2048/iframe" width="540" height="740" style="margin:0;padding:0;border:0"></iframe></center>
+
+
+# About
+
+Math is cool. No, shush. It IS cool. If you don't think so, then give this addictive little math puzzle a try. Created by Gabriele Cirulli and published by Ketchapp, 2048 is simple, clever and oh so addictive. Move all the numbered tiles into one of the four directions of the panel. If two tiles with the same number move into each other, they merge and become the sum of their respective numbers through the magic of math. Two 4s become an 8. Two 8s become a 16 and so on and so forth. Keep going and going until you hit the magical 2048, but before you run out of space to move your tiles. What will your high score be? Try 2048 out now, and discover a whole new way of making math and addition fun.
+
+# Instructions
+
+Controls: Arrows
