@@ -7,7 +7,6 @@ category: 'Fun'
 tags:
 - Stickman
 - Archer
-- 2
 ---
 
 <center><iframe src="https://www.silvergames.com/en/stickman-archer-2/iframe" width="900" height="490" style="margin:0;padding:0;border:0"></iframe></center>
