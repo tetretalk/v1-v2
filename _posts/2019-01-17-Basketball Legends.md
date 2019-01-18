@@ -9,7 +9,7 @@ tags:
 - Legends
 ---
 
-<iframe src="https://www.silvergames.com/en/basketball-legends/iframe" width="800" height="600" style="margin:0;padding:0;border:0"></iframe>
+<center><iframe src="https://www.silvergames.com/en/basketball-legends/iframe" width="800" height="600" style="margin:0;padding:0;border:0"></iframe></center>
 
 # Description
 
