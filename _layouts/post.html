@@ -4,7 +4,7 @@
     <body class="has-push-menu">
         {% include minutes-to-read.html %}
         {% include svg-icons.html %}
-        <section class="post">
+        <section id="post" class="post">
 
             <article role="article" id="post" class="post-content" itemprop="articleBody">
                 
@@ -13,7 +13,20 @@
 
                 {{ content }}
             </article>
-
+<script>
+    var elem = document.getElementById("post");
+function openFullscreen() {
+  if (elem.requestFullscreen) {
+    elem.requestFullscreen();
+  } else if (elem.mozRequestFullScreen) { /* Firefox */
+    elem.mozRequestFullScreen();
+  } else if (elem.webkitRequestFullscreen) { /* Chrome, Safari & Opera */
+    elem.webkitRequestFullscreen();
+  } else if (elem.msRequestFullscreen) { /* IE/Edge */
+    elem.msRequestFullscreen();
+  }
+}
+            </script>
 <!-- <div class="row">
 <center>
   <div class="flexbox">
