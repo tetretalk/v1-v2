@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Rules
-description: Official tetretalk rules.
-permalink: /rules/
+title: How to make a game
+description: Use these to make a game for the site.
+permalink: /create/
 ---
 
 ### This is what applications that are verified for use to make a game with.
