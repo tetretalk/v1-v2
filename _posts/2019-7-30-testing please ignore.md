@@ -1,7 +1,7 @@
 ---
 layout: post
 description:  
-image: 'http://bit.ly/316kriS'
+image: 'http://tiny.cc/vnvhaz'
 title: "testing ignore"
 category: 'Fun'
 ---
