@@ -1,6 +1,5 @@
 ---
 layout: post  
-image: 'https://tiny.cc/vnvhaz'
 title: ""
 ---
 
