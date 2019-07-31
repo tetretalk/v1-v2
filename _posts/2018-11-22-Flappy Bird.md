@@ -4,7 +4,6 @@ title: "Flappy Bird"
 description:  
 image: 'https://i3.silvergames.com/p/b/flappy-bird.png'
 category: 'Fun'
-class: true
 tags:
 - Flappy
 - Bird
