@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: ""
+title: "Have fun with unblocked games during school!"
 image: "http://tiny.cc/vnvhaz"
 ---
 
