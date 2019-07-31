@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: "<iframe src="https://discordapp.com/widget?id=576169152218398720&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>"
+title: "<a class="waves-effect waves-light btn">button</a>"
 ---
 
 <div>
