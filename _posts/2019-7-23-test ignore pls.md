@@ -1,6 +1,7 @@
 ---
 layout: post  
 title: ""
+image: "http://tiny.cc/vnvhaz"
 ---
 
 <div>
