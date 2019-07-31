@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: "<a class="waves-effect waves-light btn">button</a>"
+title: ""
 ---
 
 <div>
