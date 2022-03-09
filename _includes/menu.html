@@ -9,7 +9,7 @@
                   border-radius: 55px;
           </style>
         {% for link in site.links %}
-          <li><a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>
+          <li><a href="{{ site.baseurl }}{{ site.url }}{{ link.url }}">{{ link.title }}</a></li>
         {% endfor %}
       </ul>
     </nav>
